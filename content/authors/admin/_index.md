@@ -58,4 +58,4 @@ My research interests include studying the science, technology, and innovation (
 In my dissertation I am researching regulatory tools to foster innovation in energy sectors. Please contact me if you are interested in research collaboration, or if you want to know more about my work.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
