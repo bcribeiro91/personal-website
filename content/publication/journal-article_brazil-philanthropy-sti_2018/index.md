@@ -1,12 +1,12 @@
 ---
-title: "Environmental Regulation as a RD Inductor: Study of Electric and Piped Gas Sector in Brazil"
+title: "The State of the Art of Philanthropic Funding in Science, Technology, and Innovation (STI) in Brazil"
 authors:
 - admin
 - Adriana Bin
 author_notes:
 - 
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
-date: "2021-09-01T00:00:00Z"
+date: "2018-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista Tecnologia e Sociedade, v. 17*(p. 202‑218)"
+publication: "*Revista de Direito do Terceiro Setor, v. 24*(p. 143‑153)"
 publication_short: ""
 
-abstract: The article analyzes regulations, policies, and programs at the national and sub-national levels, as well as private initiatives that support research and innovation in the Brazilian sanitation sector. This research was constructed through document analysis and the application of analytical frameworks in laws, ordinances, and public calls for proposals, distinguishing the different natures of these initiatives. The results demonstrate a predominance of technology-push policies in the sector that suffer from instability in the sources of financing at the federal level. At the same time, it is possible to verify the growth, at the regional level, of initiatives from companies and associations, which aim to encourage startups. During the research, it was verified that, despite the national state withdrawing and diminishing its efforts to actively promote the development of research and innovation in Brazilian sanitation, it still constitutes a central actor to foster it. Given this scenario, new strategies are necessary to promote research and innovation in Brazilian sanitation and the inclusion of new players in the sector, such as startups. 
+abstract: We conducted a exploratory research on the private social investments of philanthropic nature allocated in science, technology and innovation (ST&I) in Brazil. To conduct this research, quantitative we collected and analysed data from the Group of Institutes, Foundations and Enterprises (GIFE) and the Benchmarking of Corporate Social Benchmarking of Corporate Social Investment (BISC). Our results demonstrate that the current national databases on philanthropic investments do not include indicators that measure the ST&I investments of this nature. At the same time we verified that initiatives of this kind occur in small scale in Brazil. Nevertheless, there are indications that philanthropic private social investments will become a prominent source of financing for ST&I. Therefore, our research indicates the need for further research in this topic, particularly related to the develop strategies for its allocation.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://periodicos.utfpr.edu.br/rts/article/view/9715
+url_pdf: https://dspace.almg.gov.br/handle/11037/33014
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -44,11 +44,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

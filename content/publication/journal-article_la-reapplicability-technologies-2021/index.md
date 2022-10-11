@@ -1,16 +1,18 @@
 ---
-title: "Environmental Regulation as a RD Inductor: Study of Electric and Piped Gas Sector in Brazil"
+title: " Networks and reapplicability of social technologies in Lantin America agriculture and food"
 authors:
+- Juliana Pires de Arruda Leite
+- Maria Gabriela Santana da Silva
 - admin
-- Adriana Bin
 author_notes:
+- "https://scholar.google.com/citations?user=fNKdeZYAAAAJ&hl=en&oi=ao"
+- "http://lattes.cnpq.br/2382521107431610"
 - 
-- "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
-date: "2021-09-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +21,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista Tecnologia e Sociedade, v. 17*(p. 202‑218)"
+publication: "*Diálogo, v. 44*(p. 115‑128)"
 publication_short: ""
 
-abstract: The article analyzes regulations, policies, and programs at the national and sub-national levels, as well as private initiatives that support research and innovation in the Brazilian sanitation sector. This research was constructed through document analysis and the application of analytical frameworks in laws, ordinances, and public calls for proposals, distinguishing the different natures of these initiatives. The results demonstrate a predominance of technology-push policies in the sector that suffer from instability in the sources of financing at the federal level. At the same time, it is possible to verify the growth, at the regional level, of initiatives from companies and associations, which aim to encourage startups. During the research, it was verified that, despite the national state withdrawing and diminishing its efforts to actively promote the development of research and innovation in Brazilian sanitation, it still constitutes a central actor to foster it. Given this scenario, new strategies are necessary to promote research and innovation in Brazilian sanitation and the inclusion of new players in the sector, such as startups. 
+abstract: This research selected experiences of social technologies for agriculture and food in four Latin American countries (Brazil, Mexico, Argentina and Colombia) and focused on understand the relevant factors for its reaplicability.  The methodology  includes document analysis and online  survey  with  the responsible organizations. The results suggest that networks with greater diversity of actors, the presence of an articulating organization and investments in technological diffusion are factors that impact on the reaplicability of these social technologies.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://periodicos.utfpr.edu.br/rts/article/view/9715
+url_pdf: https://dspace.almg.gov.br/handle/11037/33014
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
@@ -74,4 +77,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
