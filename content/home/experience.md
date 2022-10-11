@@ -28,16 +28,34 @@ experience:
     company_logo: org-gc
     location: Brazil
     date_start: '2023-01-01'
-    date_end: ''
-    description: |2-
+    date_end: '2023-02-01'
+    description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: "Research Grant: Scholarship for Completing a Doctoral Degree (PAS)"
+    company: Technical University of Berlin (TUB)
+    company_url: 'https://www.tu.berlin/en/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Germany
+    date_start: '2022-10-01'
+    date_end: '2023-03-01'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: 'Research Grant: Bi‑Nationally Supervised Doctoral Degrees/Cotutelle'
+    company: German Academic Exchange Service (DAAD)
+    company_url: 'https://www.daad.de/en/'
+    company_logo: org-x
+    location: Germany
+    date_start: '2020-10-01'
+    date_end: '2022-10-01'
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: ''Research Grant: Doctoral Degree'
+    company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
+    company_url: 'https://www.gov.br/capes/pt-br'
+    company_logo: org-x
+    location: Germany
+    date_start: '2018-05-01'
+    date_end: '2020-09-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
