@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: 'Research Grant: DERI Students International Mobility'
     company: Santander
-    company_url: 'https://www.becas-santander.com/en/index.html'
+    company_url: "https://www.becas-santander.com/en/index.html"
     company_logo: org-gc
     location: Brazil
     date_start: '2023-01-01'
@@ -49,15 +49,15 @@ experience:
     date_end: '2022-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
     
-  - title: ''Research Grant: Doctoral Degree'
+  - title: 'Research Grant: Doctoral Degree'
     company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
     company_url: 'https://www.gov.br/capes/pt-br'
     company_logo: org-x
-    location: Germany
+    location: Brazil
     date_start: '2018-05-01'
     date_end: '2020-09-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
-design:
-  columns: '2'
+#design:
+#  columns: '2'
 ---
