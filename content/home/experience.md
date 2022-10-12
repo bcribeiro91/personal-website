@@ -43,7 +43,7 @@ experience:
   - title: 'Research Grant: Bi‑Nationally Supervised Doctoral Degrees/Cotutelle'
     company: German Academic Exchange Service (DAAD)
     company_url: 'https://www.daad.de/en/'
-    company_logo: daad_3
+    company_logo: daad_4
     location: Germany
     date_start: '2020-10-01'
     date_end: '2022-10-01'
