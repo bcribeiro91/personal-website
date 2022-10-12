@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dspace.almg.gov.br/handle/11037/33014
+url_pdf: 'https://dspace.almg.gov.br/handle/11037/33014'
 url_code: ''
 url_dataset: ''
 url_poster: ''
