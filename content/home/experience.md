@@ -25,7 +25,7 @@ experience:
   - title: 'Research Grant: DERI Students International Mobility'
     company: Santander
     company_url: "https://www.becas-santander.com/en/index.html"
-    company_logo: org-gc
+    company_logo: santander
     location: Brazil
     date_start: '2023-01-01'
     date_end: '2023-02-01'
@@ -34,7 +34,7 @@ experience:
   - title: "Research Grant: Scholarship for Completing a Doctoral Degree (PAS)"
     company: Technical University of Berlin (TUB)
     company_url: 'https://www.tu.berlin/en/'
-    company_logo: org-x
+    company_logo: tub
     location: Germany
     date_start: '2022-10-01'
     date_end: '2023-03-01'
@@ -43,7 +43,7 @@ experience:
   - title: 'Research Grant: Bi‑Nationally Supervised Doctoral Degrees/Cotutelle'
     company: German Academic Exchange Service (DAAD)
     company_url: 'https://www.daad.de/en/'
-    company_logo: org-x
+    company_logo: daad
     location: Germany
     date_start: '2020-10-01'
     date_end: '2022-10-01'
@@ -52,7 +52,7 @@ experience:
   - title: 'Research Grant: Doctoral Degree'
     company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
     company_url: 'https://www.gov.br/capes/pt-br'
-    company_logo: org-x
+    company_logo: capes
     location: Brazil
     date_start: '2018-05-01'
     date_end: '2020-09-01'
