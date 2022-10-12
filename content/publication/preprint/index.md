@@ -2,7 +2,9 @@
 abstract: 
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Tooraj Jamasb
+- Fabian Scheifele
+date: "2023-04-07T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -32,7 +34,6 @@ url_poster: '#'
 url_project: ""
 url_slides: ""
 url_source: '#'
-url_video: '#'
 ---
 
 {{% callout note %}}
