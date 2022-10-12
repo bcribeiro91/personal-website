@@ -25,3 +25,6 @@ main:
   - name: CV
     url: uploads/resume.pdf
     weight: 70
+  - name: JMP
+    url: uploads/jmp.pdf
+    weight: 80
