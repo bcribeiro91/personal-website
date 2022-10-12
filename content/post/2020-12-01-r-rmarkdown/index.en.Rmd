@@ -6,10 +6,6 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
-
 # Website with Blogdown
 
 In development, for further information <https://www.youtube.com/watch?v=oXFPOOrkogA&list=PLuak_bGvcWZNu-Eu2MPBS7gZ6Zz3jdc4w&index=1>.
