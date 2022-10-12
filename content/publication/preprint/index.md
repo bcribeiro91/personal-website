@@ -4,7 +4,7 @@ authors:
 - admin
 - Tooraj Jamasb
 - Fabian Scheifele
-date: "2023-04-07T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -27,13 +27,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: Working paper
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
+url_code: ''
+url_dataset: ''
+url_pdf: ''
 url_slides: ""
-url_source: '#'
 ---
 
 {{% callout note %}}
