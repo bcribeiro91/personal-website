@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'Beatriz Couto Ribeiro'
     baidu: ''
 
 # Site header
