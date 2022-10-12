@@ -1,5 +1,5 @@
 ---
-bio: My research interests include policy evaluation of science, technology, and innovation (STI) in energy, water, and sewage sectors.![](/authors/admin/_index_files/avatar.jpg)
+bio: My research interests include policy evaluation of science, technology, and innovation (STI) in energy, water, and sewage sectors.
 education:
   courses:
   - course: PhD in Economics
