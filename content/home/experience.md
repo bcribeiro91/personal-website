@@ -43,7 +43,7 @@ experience:
   - title: 'Research Grant: Bi‑Nationally Supervised Doctoral Degrees/Cotutelle'
     company: German Academic Exchange Service (DAAD)
     company_url: 'https://www.daad.de/en/'
-    company_logo: daad_2
+    company_logo: daad_3
     location: Germany
     date_start: '2020-10-01'
     date_end: '2022-10-01'
@@ -52,7 +52,7 @@ experience:
   - title: 'Research Grant: Doctoral Degree'
     company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
     company_url: 'https://www.gov.br/capes/pt-br'
-    company_logo: capes
+    company_logo: capes_2
     location: Brazil
     date_start: '2018-05-01'
     date_end: '2020-09-01'
