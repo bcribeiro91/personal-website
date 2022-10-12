@@ -52,7 +52,7 @@ experience:
   - title: 'Research Grant: Doctoral Degree'
     company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
     company_url: 'https://www.gov.br/capes/pt-br'
-    company_logo: capes_2
+    company_logo: capes_4
     location: Brazil
     date_start: '2018-05-01'
     date_end: '2020-09-01'
