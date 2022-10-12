@@ -51,11 +51,11 @@ superuser: true
 title: Beatriz Couto Ribeiro
 ---
 
-I am a joint PhD candidate in innovation economics and public policy at the Technical University of Berlin – TUB (Germany) and University of Campinas – UNICAMP (Brazil).
+I am a joint PhD candidate in Economics and Science and Technology Policy at the Technical University of Berlin – TUB (Germany) and University of Campinas – UNICAMP (Brazil).
 
-I am interested in studying science, technology, and innovation (STI) policies in public infrastructure sectors, such as electricity, gas, water, and sewage. In my research, I am assessing the impact of STI policies and programs in the Global South and OECD countries on innovation outputs by using quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) as well as qualitative methods (e.g., Interviews, and Documental Analysis).
+I am interested in studying science, technology, and innovation (STI) policies in public infrastructure sectors, such as electricity, gas, water, and sewage. In my research, I am assessing the impact of STI policies and programs in the Global South and OECD countries on innovation outputs by using quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) as well as qualitative methods (e.g., Interviews, and Documentary Analysis).
 
-In my PhD dissertation I am assessing the role and impact of regulatory tools to foster innovation in the electricity sector. {{< icon name="download" pack="fas" >}} You can find my job market paper {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
+In my PhD dissertation I am assessing the role and impact of regulatory tools to foster innovation in the electricity sector. I am on the Economics job market during the 2022-23 academic year, my job market paper (JMP) is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
 
 Please contact me if you are interested in research collaboration, or if you want to know more about my work.
 
