@@ -37,7 +37,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://www.scielo.br/j/esa/a/NXydVcnTxj4ZXShf9Fxsh4H/
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

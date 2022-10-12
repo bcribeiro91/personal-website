@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://periodicos.utfpr.edu.br/rts/article/view/9715
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
