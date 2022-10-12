@@ -1,5 +1,5 @@
 ---
-title: " Networks and reapplicability of social technologies in Lantin America agriculture and food"
+title: "Networks and reapplicability of social technologies in Lantin America agriculture and food"
 authors:
 - Juliana Pires de Arruda Leite
 - Maria Gabriela Santana da Silva
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://dspace.almg.gov.br/handle/11037/33014'
+url_pdf: https://revistas.unilasalle.edu.br/index.php/Dialogo/article/view/6980
 url_code: ''
 url_dataset: ''
 url_poster: ''

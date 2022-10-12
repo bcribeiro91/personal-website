@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://periodicos.utfpr.edu.br/rts/article/view/9715'
+url_pdf: https://periodicos.utfpr.edu.br/rts/article/view/9715
 url_code: ''
 url_dataset: ''
 url_poster: ''
