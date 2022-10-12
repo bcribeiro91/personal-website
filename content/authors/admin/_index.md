@@ -55,7 +55,8 @@ I am a joint PhD candidate in innovation economics and public policy at the Tech
 
 I am interested in studying science, technology, and innovation (STI) policies in public infrastructure sectors, such as electricity, gas, water, and sewage. In my research, I am assessing the impact of STI policies and programs in the Global South and OECD countries on innovation outputs by using quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) as well as qualitative methods (e.g., Interviews, and Documental Analysis).
 
-In my PhD dissertation I am assessing the role and impact of regulatory tools to foster innovation in the electricity sector. You can find my job market paper here. 
+In my PhD dissertation I am assessing the role and impact of regulatory tools to foster innovation in the electricity sector. {{< icon name="download" pack="fas" >}} You can find my job market paper {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
+
 Please contact me if you are interested in research collaboration, or if you want to know more about my work.
 
 {{< icon name="download" pack="fas" >}} For more information you can download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
