@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista DAE, Forthcoming*(X)"
+publication: "*Revista DAE, Forthcoming*(2022)"
 publication_short: ""
 
 abstract: The article analyzes regulations, policies, and programs at the national and sub-national levels, as well as private initiatives that support research and innovation in the Brazilian sanitation sector. This research was constructed through document analysis and the application of analytical frameworks in laws, ordinances, and public calls for proposals, distinguishing the different natures of these initiatives. The results demonstrate a predominance of technology-push policies in the sector that suffer from instability in the sources of financing at the federal level. At the same time, it is possible to verify the growth, at the regional level, of initiatives from companies and associations, which aim to encourage startups. During the research, it was verified that, despite the national state withdrawing and diminishing its efforts to actively promote the development of research and innovation in Brazilian sanitation, it still constitutes a central actor to foster it. Given this scenario, new strategies are necessary to promote research and innovation in Brazilian sanitation and the inclusion of new players in the sector, such as startups. 

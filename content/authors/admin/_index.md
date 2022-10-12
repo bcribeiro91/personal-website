@@ -24,7 +24,7 @@ interests:
 last_name: Couto Ribeiro
 organizations:
 - name: Technical University of Berlin (TUB)
-  url: https://www.tu.berlin/en/
+  url: https://www.tu.berlin/en/inno/about-us/team/beatriz-couto-ribeiro
 - name: University of Campinas (UNICAMP)
   url: https://www.unicamp.br/unicamp/english
 role: PhD Candidate
