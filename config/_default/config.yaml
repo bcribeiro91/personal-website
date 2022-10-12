@@ -45,8 +45,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects, SITEMAP]
+  section: [HTML, RSS, SITEMAP]
 imaging:
   resampleFilter: lanczos
   quality: 75
