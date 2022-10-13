@@ -19,14 +19,12 @@ marketing:
     local_business_type: ''
     org_name: 'Technical University of Berlin'
     description: 'This is a personal academic website from PhD Candidate Beatriz Couto Ribeiro'
-    twitter: ''
+    twitter: 'bibiacr'
   analytics:
     google_analytics: 'G-KL6361DP9W'
     baidu_tongji: ''
   verification:
-    google: '<script async src="https://cse.google.com/cse.js?cx=83e638fa7ea1748f9">
-</script>
-<div class="gcse-search"></div>'
+    google: '337054933'
     baidu: ''
 
 # Site header
