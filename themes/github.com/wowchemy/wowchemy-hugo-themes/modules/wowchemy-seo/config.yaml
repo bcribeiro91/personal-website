@@ -1,5 +1,5 @@
 sitemap:
-  changefreq: weekly
+  changefreq: daily
 module:
   mounts:
     - source: assets

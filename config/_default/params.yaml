@@ -17,14 +17,16 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Beatriz Couto Ribeiro or bcribeiro'
+    org_name: 'Technical University of Berlin'
+    description: 'This is a personal academic website from PhD Candidate Beatriz Couto Ribeiro'
     twitter: ''
   analytics:
     google_analytics: 'G-KL6361DP9W'
     baidu_tongji: ''
   verification:
-    google: 'Beatriz Couto Ribeiro'
+    google: '<script async src="https://cse.google.com/cse.js?cx=83e638fa7ea1748f9">
+</script>
+<div class="gcse-search"></div>'
     baidu: ''
 
 # Site header
