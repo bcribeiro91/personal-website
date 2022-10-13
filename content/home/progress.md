@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 40
 
 title: 'Work in Progress'
 subtitle: ''
