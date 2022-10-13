@@ -48,7 +48,7 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**bcribeiro**](https://www.bcribeiro.com/)'
   focal_point: ""
   preview_only: false
 
@@ -68,4 +68,4 @@ slides: ""
 ---
 
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
