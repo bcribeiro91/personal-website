@@ -7,12 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Peer-Reviewed Publications
     url: '#publications'
+    weight: 30
+  - name: Working Papers
+    url: '#progress'
     weight: 30
   - name: Awards
     url: '#experience'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 130

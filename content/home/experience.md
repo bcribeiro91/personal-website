@@ -29,7 +29,7 @@ experience:
     location: Brazil
     date_start: '2023-01-01'
     date_end: '2023-02-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
 
   - title: "Research Grant: Scholarship for Completing a Doctoral Degree (PAS)"
     company: Technical University of Berlin (TUB)
@@ -38,7 +38,7 @@ experience:
     location: Germany
     date_start: '2022-10-01'
     date_end: '2023-03-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
     
   - title: 'Research Grant: Bi‑Nationally Supervised Doctoral Degrees/Cotutelle'
     company: German Academic Exchange Service (DAAD)
@@ -47,7 +47,7 @@ experience:
     location: Germany
     date_start: '2020-10-01'
     date_end: '2022-10-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
     
   - title: 'Research Grant: Doctoral Degree'
     company: Brazilian Federal Agency for Support and Evaluation of Graduate Education (CAPES)
@@ -56,7 +56,7 @@ experience:
     location: Brazil
     date_start: '2018-05-01'
     date_end: '2020-09-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
 
 #design:
 #  columns: '2'

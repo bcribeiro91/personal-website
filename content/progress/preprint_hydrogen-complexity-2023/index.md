@@ -2,8 +2,8 @@
 abstract: 
 authors:
 - admin
-- Tooraj Jamasb
 - Fabian Scheifele
+- Parsa Ashari
 date: "2023-01-01T00:00:00Z"
 doi: ""
 featured: false
@@ -16,7 +16,7 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: "The Landscape of Regulatory Tools to foster Innovation and Technology in the Electricity Sector"
+publication: "Economic Complexity of the Hydrogen Value Chain"
 publication_short: ""
 publication_types:
 - "3"
