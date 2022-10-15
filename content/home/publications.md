@@ -12,7 +12,7 @@ weight: 30
 title: Peer-Reviewed Publications
 subtitle: ''
 
-content: content/home/publications
+content:
   # Filter on criteria
   filters:
     folders:
