@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: /
     weight: 10
   - name: Publications
-    url: /publications/
+    url: publications/
     weight: 30
   - name: Media
-    url: /experience/
+    url: experience/
     weight: 50
   - name: Contact
     url: '#contact'
