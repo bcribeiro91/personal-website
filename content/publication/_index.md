@@ -5,7 +5,7 @@ header:
   caption: ""
   image: ""
 title: Writings
-view: 4
+#view: 4
 type: page
 ---
 
