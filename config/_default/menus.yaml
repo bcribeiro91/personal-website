@@ -10,8 +10,8 @@ main:
   - name: Research
     url: publication/
     weight: 30
-  - name: Media
-    url: progress/
+  - name: Teaching
+    url: teaching/
     weight: 50
   - name: Contact
     url: '#contact'

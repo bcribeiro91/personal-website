@@ -4,7 +4,7 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Writings
+title: **Writings**
 view: 4
 type: page
 ---
