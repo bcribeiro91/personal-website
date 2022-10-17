@@ -6,4 +6,5 @@ header:
   image: ""
 title: Peer-reviewed publications
 view: 4
+type: page
 ---
