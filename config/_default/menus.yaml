@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publications
-    url: content/home/publication
+    url: content/home/publications/
     weight: 30
   - name: Media
     url: progress/
