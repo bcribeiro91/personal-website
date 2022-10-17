@@ -8,13 +8,22 @@ view: 4
 ---
 
 
-- Quality Infrastructure Management TUB ‑ Germany
-GUEST LECTURE: ”INNOVATiON, REGULATiON, AND STANDARDS iN REGULATED SECTORS” 2021
+- Guest Lecture: ”Innovation, Regulaation, and Standards in Regulated Sectors”. 
+Course: Quality Infrastructure Management 
+University: Technical University of Berlin (TUB), Germany
+Year: 2021
 
-- Science, Technology and Society Unicamp ‑ Brazil
-TEACHiNG ASSiSTANT & GUEST LECTURE: ”SCiENTiFiC MANAGEMENT AND PRODUCTiVE ORGANiZATiON” 2019
-- Innovation Management Unicamp ‑ Brazil
-TEACHiNG ASSiSTANT & GUEST LECTURE: ”ORGANiZATiONAL PROCESS AND MODELS” 2017
+- Teaching Assistant & Guest Lecture: ”SCiENTiFiC MANAGEMENT AND PRODUCTiVE ORGANiZATiON”
+Course: Science, Technology and Society 
+University: University of Campinas (Unicamp), Brazil
+Year: 2019
 
-- Introduction to Organizational and Management Studies Unicamp ‑ Brazil
-TEACHiNG ASSiSTANT & GUEST LECTURE: ”SCiENCE, TECHNOLOGY, AND INNOVATiON FUNDiNG INSTRUMENTS” 2017
+- Teaching Assistant & Guest Lecture: "Organizational Process and Models” 
+Course: Innovation Management 
+University: University of Campinas (Unicamp), Brazil
+Year: 2017
+
+- Teaching Assistant & Guest Lecture: ”Science, Technology, and Innovation Funding Instruments” 
+Course: Introduction to Organizational and Management Studies 
+University: University of Campinas (Unicamp), Brazil
+Year: 2017
