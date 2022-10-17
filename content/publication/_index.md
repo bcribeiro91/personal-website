@@ -4,7 +4,11 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Peer-reviewed publications
+title: Writings
 view: 4
 type: page
 ---
+
+## Writtings
+
+Peer-reviewed Publications
