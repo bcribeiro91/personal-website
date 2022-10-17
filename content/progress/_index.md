@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Progress
+title: Work in progress
 view: 4
 ---
