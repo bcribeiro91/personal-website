@@ -8,7 +8,7 @@ title: Teaching
 ---
 
 
-- **Guest Lecture**: *"Innovation, Regulaation, and Standards in Regulated Sectors"*   
+- **Guest Lecture**: *"Innovation, Regulation, and Standards in Regulated Sectors"*   
 **Course**: Quality Infrastructure Management   
 **University**: Technical University of Berlin (TUB), Germany  
 **Year**: 2021  
