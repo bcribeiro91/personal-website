@@ -9,6 +9,10 @@ view: 4
 type: page
 ---
 
-## Writtings
+## *Work in Progress*
 
-Peer-reviewed Publications
++ *Beatriz Couto Ribeiro*, Fabian Scheifele, Parsa Ashari (2023). Working paper. _Economic Complexity of the Hydrogen Value Chain_.
+
++ *Beatriz Couto Ribeiro*, Tooraj Jamasb, Fabian Scheifele, Adriana Bin (2023). Working paper. _The Landscape of Regulatory Tools to foster Innovation and Technology in the Electricity Sector_.
+
+## *Peer-reviewed Publications*
