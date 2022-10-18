@@ -7,11 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Peer-reviewed publications
+  - name: Publications
     url: '#publications'
-    weight: 30
-  - name: Work in Progress
-    url: '#progress'
     weight: 30
   - name: Teaching
     url: teaching/
