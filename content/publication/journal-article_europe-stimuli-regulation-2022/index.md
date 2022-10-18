@@ -10,7 +10,7 @@ author_notes:
 - "https://www.fca.unicamp.br/portal/pt-br/fca-pessoas/servidores/223-servidores-ensino/54-luciane-graziele-pereira.html"
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 - "https://scholar.google.com/citations?user=qImM3KsAAAAJ&hl=en"
-date: "*Energy Economics, Forthcoming*(2022)"
+date: "2022-10-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
