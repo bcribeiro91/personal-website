@@ -23,22 +23,21 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 tags:
 - Source Themes
 title: Working paper
-url_code: ''
-url_dataset: ''
-url_pdf: ''
-url_slides: ""
+# url_code: ''
+# url_dataset: ''
+# url_pdf: ''
+# url_slides: ""
 #url_poster: '#'
 #url_project: ""
 #url_source: ''
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
+# 
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
