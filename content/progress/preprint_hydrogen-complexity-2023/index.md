@@ -12,8 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 projects:
 - internal-project
 publication: "Economic Complexity of the Hydrogen Value Chain"
@@ -21,7 +21,7 @@ publication_short: ""
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+# slides: example
 summary: " "
 tags:
 - Source Themes

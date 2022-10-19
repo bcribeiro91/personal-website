@@ -13,8 +13,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 projects:
 - internal-project
 publication: "The Landscape of Regulatory Tools to foster Innovation and Technology in the Electricity Sector"
@@ -22,7 +22,7 @@ publication_short: ""
 publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+# slides: example
 summary: ""
 tags:
 - Source Themes
