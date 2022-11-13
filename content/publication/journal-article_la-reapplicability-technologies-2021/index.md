@@ -1,5 +1,5 @@
 ---
-title: "Networks and reapplicability of social technologies in Lantin America agriculture and food"
+title: "Networks and reapplicability of social technologies in Latin America agriculture and food"
 authors:
 - Juliana Pires de Arruda Leite
 - Maria Gabriela Santana da Silva

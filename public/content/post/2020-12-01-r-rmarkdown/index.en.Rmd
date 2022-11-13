@@ -1,0 +1,11 @@
+---
+title: "Build a Website with Blogdown"
+author: "Beatriz Couto Ribeiro"
+date: 2022-10-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+# Website with Blogdown
+
+In development, for further information <https://www.youtube.com/watch?v=oXFPOOrkogA&list=PLuak_bGvcWZNu-Eu2MPBS7gZ6Zz3jdc4w&index=1>.
