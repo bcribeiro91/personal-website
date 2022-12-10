@@ -7,10 +7,17 @@ name = "Strawberry"
 
   # Menu
   menu_primary = "#ff3860"
-  menu_text = "#fff"
-  menu_text_active = "rgb(208, 255, 56)"
-  menu_title = "#fff"
+  menu_text = "#E9C46A"
+  menu_text_active = "#704C5E"
+  menu_title = "#E9C46A"
 
   # Home sections
   home_section_odd = "#fff"
   home_section_even = "#fff"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
