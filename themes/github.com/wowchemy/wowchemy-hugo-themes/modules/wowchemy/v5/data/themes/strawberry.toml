@@ -3,12 +3,12 @@ name = "Strawberry"
 
 [light]
   # Primary
-  primary = "#400406"
+  primary = "#897C80"
 
   # Menu
   menu_primary = "#254441"
   menu_text = "#ADE1E5"
-  menu_text_active = "#79C7C5"
+  menu_text_active = "#FCE8D8"
   menu_title = "#ADE1E5"
 
   # Home sections
