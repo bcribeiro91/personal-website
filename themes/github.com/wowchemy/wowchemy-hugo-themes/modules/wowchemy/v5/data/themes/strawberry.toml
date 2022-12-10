@@ -9,7 +9,7 @@ name = "Strawberry"
   menu_primary = "#254441"
   menu_text = "#ADE1E5"
   menu_text_active = "#FCE8D8"
-  menu_title = "#ADE1E5"
+  menu_title = "#F2B05A"
 
   # Home sections
   home_section_odd = "#fff"
