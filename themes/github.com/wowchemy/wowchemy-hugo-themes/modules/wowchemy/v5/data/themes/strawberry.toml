@@ -14,10 +14,3 @@ name = "Strawberry"
   # Home sections
   home_section_odd = "#fff"
   home_section_even = "#fff"
-
-[dark]
-  # Primary
-  primary = "#bbdefb"
-
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
