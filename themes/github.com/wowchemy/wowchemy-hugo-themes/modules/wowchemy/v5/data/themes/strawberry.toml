@@ -8,7 +8,7 @@ name = "Strawberry"
   # Menu
   menu_primary = "#254441"
   menu_text = "#ADE1E5"
-  menu_text_active = "#FCE8D8"
+  menu_text_active = "#F2B05A"
   menu_title = "#FCE8D8"
 
   # Home sections
