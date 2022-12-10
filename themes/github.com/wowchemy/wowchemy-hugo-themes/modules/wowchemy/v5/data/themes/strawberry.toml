@@ -3,7 +3,7 @@ name = "Strawberry"
 
 [light]
   # Primary
-  primary = "#79C7C5"
+  primary = "#83ADB0"
 
   # Menu
   menu_primary = "#254441"
