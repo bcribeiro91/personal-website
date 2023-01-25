@@ -1,16 +1,20 @@
 ---
-title: "Environmental Regulation as a RD Inductor: Study of Electric and Piped Gas Sector in Brazil"
+title: "Interorganizational Networks in Public Organizations: The Educational Technological Complex"
 authors:
-- admin
+- Juliana Pires de Arruda Leite
 - Adriana Bin
+- Janaína Lemos Rocha
+- admin
 author_notes:
-- 
+- "https://scholar.google.com/citations?user=fNKdeZYAAAAJ&hl=en&oi=ao"
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
-date: "2021-09-01T00:00:00Z"
-doi: "10.3895/rts.v17n47.9715"
+- "http://lattes.cnpq.br/0979935228428736"
+
+date: "2022-05-01T00:00:00Z"
+doi: "10.53706/gep.v.23.6894"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +23,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista Tecnologia e Sociedade, v. 17*(p. 202‑218)"
+publication: "*Gestão & Planejamento-G&P, v. 23(1)*(p. 113‑136)"
 publication_short: ""
 
-abstract: The article analyzes regulations, policies, and programs at the national and sub-national levels, as well as private initiatives that support research and innovation in the Brazilian sanitation sector. This research was constructed through document analysis and the application of analytical frameworks in laws, ordinances, and public calls for proposals, distinguishing the different natures of these initiatives. The results demonstrate a predominance of technology-push policies in the sector that suffer from instability in the sources of financing at the federal level. At the same time, it is possible to verify the growth, at the regional level, of initiatives from companies and associations, which aim to encourage startups. During the research, it was verified that, despite the national state withdrawing and diminishing its efforts to actively promote the development of research and innovation in Brazilian sanitation, it still constitutes a central actor to foster it. Given this scenario, new strategies are necessary to promote research and innovation in Brazilian sanitation and the inclusion of new players in the sector, such as startups. 
+abstract: The research analyzed the governance of networks in public organizations through the case of the Educational Technological Complex - CTE in Campinas/SP. The creation of the CTE confirms the trend in recent decades of public research organizations intensifying their inter-organizational articulations as a strategy to deal with budget constraints, staff replacement, and the creation of opportunities from partnerships with different actors to better meet social demands. To analyze this case, we conducted a document analysis and interviews with CTE professionals. The analytical approach is structured in two parts: (a) institutional, focused on the formation of inter-organizational relationships, and (b) articulations and interdependencies, dedicated to the "links" between organizations. The creation of the CTE had a strong hierarchical component, low level of formalization, and
+failures in alignment and governance, leading to its non-institutionalization as a network and limiting the achievement of the desired results.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://periodicos.utfpr.edu.br/rts/article/view/9715
+url_pdf: https://revistas.unifacs.br/index.php/rgb/article/view/6894/4710
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,4 +72,3 @@ slides: ""
 ---
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-

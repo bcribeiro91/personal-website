@@ -9,7 +9,7 @@ author_notes:
 - "http://lattes.cnpq.br/2382521107431610"
 - 
 date: "2020-05-01T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.18316/dialogo.v0i44.6980"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"
