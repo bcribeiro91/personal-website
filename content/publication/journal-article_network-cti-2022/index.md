@@ -23,7 +23,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Gestão & Planejamento-G&P, v. 23(1)*(p. 113‑136)"
+publication: "*Gestao & Planejamento-G&P, v. 23(1)*(p. 113‑136)"
 publication_short: ""
 
 abstract: The research analyzed the governance of networks in public organizations through the case of the Educational Technological Complex - CTE in Campinas/SP. The creation of the CTE confirms the trend in recent decades of public research organizations intensifying their inter-organizational articulations as a strategy to deal with budget constraints, staff replacement, and the creation of opportunities from partnerships with different actors to better meet social demands. To analyze this case, we conducted a document analysis and interviews with CTE professionals. The analytical approach is structured in two parts: (a) institutional, focused on the formation of inter-organizational relationships, and (b) articulations and interdependencies, dedicated to the "links" between organizations. The creation of the CTE had a strong hierarchical component, low level of formalization, and
