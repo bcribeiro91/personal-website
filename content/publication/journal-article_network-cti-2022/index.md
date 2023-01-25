@@ -10,7 +10,7 @@ author_notes:
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 - "http://lattes.cnpq.br/0979935228428736"
 
-date: "2022-05-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: "10.53706/gep.v.23.6894"
 
 # Schedule page publish date (NOT publication's date).
