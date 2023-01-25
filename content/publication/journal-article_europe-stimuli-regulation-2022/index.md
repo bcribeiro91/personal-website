@@ -10,8 +10,8 @@ author_notes:
 - "https://www.fca.unicamp.br/portal/pt-br/fca-pessoas/servidores/223-servidores-ensino/54-luciane-graziele-pereira.html"
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 - "https://scholar.google.com/citations?user=qImM3KsAAAAJ&hl=en"
-date: "2022-10-08T00:00:00Z"
-doi: ""
+date: "2023-10-08T00:00:00Z"
+doi: "https://doi.org/10.1016/j.eneco.2022.106352"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy Economics, Forthcoming* (2022)"
+publication: "*Energy Economics, v. 188, 106352* "
 publication_short: ""
 
 abstract: The energy transition is characterized by decarbonization, decentralization, and digitalization trends in the electricity sector, increasing the demand for novel technologies and innovation. Nevertheless, there are still challenges in the electricity sector to provide proper innovation incentives, often attributed to the slow technological dynamics of the sector and its regulated nature. As a response to insufficient levels of innovation, numerous European countries introduced innovation-stimuli regulations in the electricity sector during the second half of the 2000s. To evaluate the impact of these regulations on innovation, we employed a difference-in-differences (DiD) model on a panel data set with 21 European countries covering the period from 1991 to 2016, using patents as a dependent variable. In addition to the canonical DiD, we performed group-specific treatment effects to estimate the difference among the “early adopters” and “late adopters” countries of innovation-stimuli regulation. We find that the introduction of innovation-stimuli regulation has positively impacted patenting activities in the electricity sector, especially among the “early adopters”. These results suggest that innovation-stimuli regulation can be an important regulatory tool to foster further innovation that is required to complete the energy transition.
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245683
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0140988322004819
 url_code: ''
 url_dataset: ''
 url_poster: ''
