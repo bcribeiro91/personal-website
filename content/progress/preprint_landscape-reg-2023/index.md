@@ -3,8 +3,6 @@ abstract:
 authors:
 - admin
 - Tooraj Jamasb
-- Fabian Scheifele
-- Adriana Bin
 date: "2023-01-01T00:00:00Z"
 doi: ""
 featured: false
@@ -17,7 +15,7 @@ links:
 #   url: http://example.org
 projects:
 - internal-project
-publication: "The Landscape of Regulatory Tools to foster Innovation and Technology in the Electricity Sector"
+publication: "How to foster innovation in smart grid technologies? Evidence from Italy and the United Kingdom"
 publication_short: ""
 publication_types:
 - "3"
