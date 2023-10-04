@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Technical University of Berlin (TUB) & University of Campinas (UNICAMP) 
-    year: Expected 2023
+    year: 2023
   - course: MSc. in Human and Social Applied Sciences
     institution: University of Campinas (UNICAMP)
     year: 2017
@@ -22,13 +22,13 @@ interests:
   - Energy Sectors
   - Hydrogen
   - Water and Sewage Sector 
-last_name: Couto Ribeiro
+last_name: Couto Ribeiro, PhD
 organizations:
 - name: Technical University of Berlin (TUB)
   url: https://www.tu.berlin/en/inno/about-us/team/beatriz-couto-ribeiro
 - name: University of Campinas (UNICAMP)
   url: https://www.unicamp.br/unicamp/english
-role: PhD Candidate
+role: 
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,9 +52,11 @@ superuser: true
 title: Beatriz Couto Ribeiro
 ---
 
-I am a Postdoctoral Fellow at the Research Institute for Sustainability (RIFS - Helmholtz) and I am also pursuing a joint Ph.D. in Innovation Economics at Technical University of Berlin (TUB - Germany) and the University of Campinas (UNICAMP - Brazil). 
+I am Dr. Beatriz Couto Ribeiro, an Innovation Economist with a dual Ph.D. in Economics from the Technical University of Berlin (TUB) in Germany and Science and Technology Policy from the University of Campinas (UNICAMP) in Brazil. 
 
-I am interested in studying science, technology, and innovation (STI) policies in public infrastructure sectors, such as electricity, gas, water, sewage, and hydrogen. In my research, I am assessing the impact of STI policies and programs in the Global South and OECD countries on innovation outputs by using quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) as well as qualitative methods (e.g., Interviews, and Documentary Analysis). In my PhD dissertation I am assessing the role and impact of regulatory tools to foster innovation in the electricity sector. 
+My areas of expertise encompass the assessment of science, technology, and innovation (STI) policies in public infrastructure sectors, such as electricity, gas, water, sewage, and hydrogen. To evaluate the impact of STI policies and programs in the Global South and OECD countries on innovation outputs I employ a diverse array methodological tools including, quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) and qualitative methods (e.g., Interviews, and Documentary Analysis). My doctoral dissertation, for instance, assessed the role and impact of regulatory tools to foster innovation in the electricity sector.
+
+In addition, I have experience as a consultant in projects with the energy utility CEMIG, the largest energy trader in Brazil, and Serrapilheira Institute, the first private non-profit institution geared towards fostering science in Brazil.
 
 {{< icon name="download" pack="fas" >}} I am on the Academic Job Market during the 2022-23 academic year, my job market paper (JMP) is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
 

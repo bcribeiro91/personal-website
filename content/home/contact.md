@@ -18,14 +18,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: coutoribeiro@campus.tu-berlin.de
-  phone: +49 176 6699 0470
+  phone: +1 202 330 7392
   address:
-    street: Straße des 17. Juni 135
-    city: Berlin
-    region: Germany
-    postcode: '10623'
-    country: Germany
-    country_code: DE
+    street: 
+    city: Washington DC
+    region: DC
+    postcode: ' '
+    country: United States
+    country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
