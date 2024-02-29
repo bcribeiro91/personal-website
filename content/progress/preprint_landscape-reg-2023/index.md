@@ -15,7 +15,7 @@ links:
 #   url: http://example.org
 projects:
 - internal-project
-publication: "How to foster innovation in smart grid technologies? Evidence from Italy and the United Kingdom"
+publication: "Innovation by Regulation: Smart Electricity Grids in the UK and Italy"
 publication_short: ""
 publication_types:
 - "3"
@@ -25,7 +25,7 @@ summary: ""
 tags:
 - Source Themes
 title: Working paper
-# url_code: ''
+ url_code: 'https://swopec.hhs.se/cbsnow/abs/cbsnow2024_007.htm'
 # url_dataset: ''
 # url_pdf: ''
 # url_slides: ""

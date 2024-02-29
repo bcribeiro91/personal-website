@@ -52,12 +52,12 @@ superuser: true
 title: Beatriz Couto Ribeiro, PhD
 ---
 
-I am Dr. Beatriz Couto Ribeiro, an Innovation Economist with a dual Ph.D. in Economics from the Technical University of Berlin (TUB) in Germany and Science and Technology Policy from the University of Campinas (UNICAMP) in Brazil. 
+I am Dr. Beatriz Couto Ribeiro, an Innovation Economist with a dual Ph.D. in Economics from the Technical University of Berlin (TUB) in Germany and Science and Technology Policy from the University of Campinas (UNICAMP) in Brazil.
 
-My areas of expertise encompass the assessment of science, technology, and innovation (STI) policies and projects in public infrastructure sectors, such as electricity, gas, water, sewage, and hydrogen. To evaluate the impact of STI policies and programs in the Global South and OECD countries on innovation outputs, I employ a diverse array of methodological tools including quasi-experimental methods (e.g., Difference-in-Difference, and Synthetic Control) and qualitative methods (e.g., Interviews, and Documentary Analysis). My doctoral dissertation, for instance, assessed the role and impact of regulatory tools to foster innovation in the electricity sector.
+My passion lies in the infrastructure domain, with a keen focus on the regulatory frameworks governing the electricity and water sanitation sectors. My professional journey in the World Bank and Lab-GEOPI – Unicamp, have allowed me to work with energy utilities such CEMIG, and supported the introduction of bulk water charges, water and sanitation concession, and energy distribution in public buildings in Brazil.
 
-In addition, I have experience as a consultant in projects with the energy utility CEMIG, the largest energy trader in Brazil, and Serrapilheira Institute, the first private non-profit institution geared towards fostering science in Brazil.
+I possess a robust skill set in policy and regulation analysis, employing both qualitative and quantitative methodologies. Recently, my curiosity has extended to the emerging field of hydrogen energy, where I am actively exploring its potential in Latin America.
 
-{{< icon name="download" pack="fas" >}} I am on the Academic Job Market during the 2022-23 academic year, my job market paper (JMP) is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
+#{{< icon name="download" pack="fas" >}} I am on the Academic Job Market during the 2022-23 academic year, my job market paper (JMP) is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
 
 {{< icon name="download" pack="fas" >}} For more information you can download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
