@@ -58,6 +58,4 @@ My passion lies in the infrastructure domain, with a keen focus on the regulator
 
 I possess a robust skill set in policy and regulation analysis, employing both qualitative and quantitative methodologies. Recently, my curiosity has extended to the emerging field of hydrogen energy, where I am actively exploring its potential in Latin America.
 
-#{{< icon name="download" pack="fas" >}} I am on the Academic Job Market during the 2022-23 academic year, my job market paper (JMP) is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
-
 {{< icon name="download" pack="fas" >}} For more information you can download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
