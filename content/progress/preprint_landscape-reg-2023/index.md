@@ -12,7 +12,7 @@ image:
   preview_only: false
 links:
 # - name: Custom Link
-   url: https://swopec.hhs.se/cbsnow/abs/cbsnow2024_007.htm
+#   url: http://example.org
 projects:
 - internal-project
 publication: "Innovation by Regulation: Smart Electricity Grids in the UK and Italy"
