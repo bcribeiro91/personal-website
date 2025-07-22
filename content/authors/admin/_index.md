@@ -18,7 +18,7 @@ email: ""
 first_name: Beatriz
 highlight_name: true
 interests:
-  - Water and Sewage Sector 
+  - Water and Sanitation Sector 
   - Energy Sector
   - Policy Evaluation of Science, Technology, and Innovation (STI)
 last_name: Couto Ribeiro, PhD
