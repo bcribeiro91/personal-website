@@ -17,11 +17,11 @@ content:
 
 
   # Contact details (edit or remove options as required)
-  email: coutoribeiro@campus.tu-berlin.de
+  email: beatrizcoutoribeiro@gmail.com
   phone: +1 202 330 7392
   address:
     street: 
-    city: Washington DC
+    city: Washington
     region: DC
     postcode: ' '
     country: United States

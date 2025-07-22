@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy Economics, ACCEPTED PAPER*(X)"
+publication: "*Energy Economics, v. 146, 108368*(X)"
 publication_short: ""
 
 abstract: With the rise of renewable and distributed energy sources, electricity distribution and transmission utilities are facing increasing demand by regulators to innovate and adopt new technologies and transit to smart grids. However, these regulated natural monopolies often lack economic incentives to develop and adopt new technologies. To overcome this barrier, some regulatory authorities have introduced the so-called “innovation-stimuli” regulations to foster experimentation, technological adoption and innovative solutions. We analyze and compare the effectiveness of two different innovation-stimuli regulations, the cost-pass through and WACC approaches, in Great Britain (GB) and Italy, respectively. To assess the impact of these different regulations on innovation, we use synthetic control (SC) and synthetic difference-in-differences (SDID) methods, which constitute causal inference techniques for small-n case study design and, for the first time, are employed to assess the impact of regulations on innovation outputs. Our panel data encompasses 13 European countries covering 1995 to 2013 and used smart grid projects and patent applications as dependent variables. Meanwhile, cost-pass-through significantly and positively affected patent applications in the GB. In Italy, WACC did not affect patent applications, and European Commission-funded projects mostly drove the increases in smart-grid projects.
@@ -63,15 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:  ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
