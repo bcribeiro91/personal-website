@@ -1,5 +1,5 @@
 ---
-bio: My research interests include policy evaluation of science, technology, and innovation (STI) in energy, water, and sewage sectors.
+#bio: My research interests include policy evaluation of science, technology, and innovation (STI) in energy, water, and sewage sectors.
 education:
   courses:
   - course: PhD in Economics
@@ -18,16 +18,14 @@ email: ""
 first_name: Beatriz
 highlight_name: true
 interests:
-  - Policy Evaluation of Science, Technology, and Innovation (STI)
-  - Energy Sectors
-  - Hydrogen
   - Water and Sewage Sector 
+  - Energy Sector
+  - Policy Evaluation of Science, Technology, and Innovation (STI)
 last_name: Couto Ribeiro, PhD
 organizations:
-- name: Technical University of Berlin (TUB)
-  url: https://www.tu.berlin/en/inno/about-us/team/beatriz-couto-ribeiro
-- name: University of Campinas (UNICAMP)
-  url: https://www.unicamp.br/unicamp/english
+- name: Inter-American Development Bank (IDB)
+  url: https://www.iadb.org/en
+
 role: 
 social:
 - icon: envelope
@@ -52,11 +50,9 @@ superuser: true
 title: Beatriz Couto Ribeiro, PhD
 ---
 
-I am Dr. Beatriz Couto Ribeiro, an Innovation Economist with a dual Ph.D. in Economics from the Technical University of Berlin (TUB) in Germany and Science and Technology Policy from the University of Campinas (UNICAMP) in Brazil.
+Beatriz Couto Ribeiro is a specialist in infrastructure policy, currently working at the Inter-American Development Bank (IDB) in the Water and Sanitation Knowledge Area. She has served as a consultant for the World Bank and held postdoctoral research positions at the Research Institute for Sustainability (RIFS Helmholtz) and George Washington University (GWU). She holds dual Ph.D. degrees in Economics from the Technical University of Berlin (TUB) and in Science and Technology Policy from the University of Campinas (UNICAMP).
 
-My passion lies in the infrastructure domain, with a keen focus on the regulatory frameworks governing the electricity and water sanitation sectors. My professional journey has allowed me to gather extensive experience in regulations and policy analysis of infrastructure sectors, such as electricity, hydrogen, water, and sanitation in leading organizations such as the World Bank.
-
-I possess a robust skill set in policy and regulation analysis, employing both qualitative and quantitative methodologies. Recently, my curiosity has extended to the emerging field of hydrogen energy, where I am actively exploring its potential in Latin America.
+Her work focuses on fostering innovation in infrastructure sectors, particularly water, sanitation, and energy, in Latin America and OECD countries. She employs both quatitative and qualitative methods, such as difference-in-differences, synthetic control, and instrumental variables, as well as interviews and document analysis.
 
 
 {{< icon name="download" pack="fas" >}} For more information you can download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
