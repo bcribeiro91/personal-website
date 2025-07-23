@@ -5,10 +5,10 @@ authors:
 date: "2025-07-01T00:00:00Z"
 doi: ""
 featured: false
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
 links:
 # - name: Custom Link
 #   url: http://example.org
@@ -37,5 +37,4 @@ title: Working paper
 # Create your slides in Markdown - click the *Slides* button to check out the example.
 # {{% /callout %}}
 # 
-# Supplementary notes can be added here, including [code, math, and 
-#images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -8,7 +8,7 @@ author_notes:
 - 
 - "https://scholar.google.com/citations?user=ML3NqCMAAAAJ&hl=en"
 date: "2025-05-08T00:00:00Z"
-doi: "https://doi.org/10.1016/j.eneco.2025.108368"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0140988325001926
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
