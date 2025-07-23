@@ -7,7 +7,7 @@ author_notes:
 - 
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 date: "2021-09-01T00:00:00Z"
-doi: "10.3895/rts.v17n47.9715"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

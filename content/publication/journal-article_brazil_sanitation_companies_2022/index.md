@@ -9,7 +9,7 @@ author_notes:
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 - "https://scholar.google.com/citations?user=aLLx7isAAAAJ&hl=pt-BR"
 date: "2022-03-01T00:00:00Z"
-doi: "https://doi.org/10.1590/S1413-415220200396"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

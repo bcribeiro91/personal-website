@@ -11,7 +11,7 @@ author_notes:
 - "https://scholar.google.com/citations?user=W0yCL5YAAAAJ&hl=en&oi=ao"
 - "https://scholar.google.com/citations?user=qImM3KsAAAAJ&hl=en"
 date: "2023-10-08T00:00:00Z"
-doi: "https://doi.org/10.1016/j.eneco.2022.106352"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
